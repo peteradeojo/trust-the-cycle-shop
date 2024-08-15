@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Arsenal",
+    "price": 16000,
+    "image": "/mockups/arsenal/front.jpg",
+    "images": [
+      "/mockups/arsenal/front.jpg",
+      "/mockups/arsenal/back.jpg"
+    ],
+    "slug": "arsenal-jersey",
+    "description": "",
+    "sizes": [
+      "sm",
+      "md",
+      "lg",
+      "xl"
+    ],
+    "primaryColor": "3d4763",
+    "secondaryTheme": "fff"
+  },
+  {
+    "name": "Pitt Bradford",
+    "price": 16000,
+    "image": "/mockups/Pitt/front.jpg",
+    "images": [
+      "/mockups/Pitt/front.jpg",
+      "/mockups/Pitt/back.jpg"
+    ],
+    "slug": "pitt-bradford",
+    "description": "",
+    "sizes": [
+      "sm",
+      "md",
+      "lg",
+      "xl"
+    ],
+    "primaryColor": "#424c6d",
+    "secondaryTheme": "#fff",
+    "tertiaryColor": "#000"
+  },
+  {
+    "name": "Northface",
+    "price": 16000,
+    "image": "/mockups/northface/front.jpg",
+    "images": [
+      "/mockups/northface/front.jpg",
+      "/mockups/northface/back.jpg"
+    ],
+    "slug": "northface",
+    "description": "",
+    "sizes": [
+      "sm",
+      "md",
+      "lg",
+      "xl"
+    ]
+  },
+  {
+    "name": "Rare Lemon",
+    "price": 16000,
+    "image": "/mockups/rare lemon/front.jpg",
+    "images": [
+      "/mockups/rare lemon/front.jpg",
+      "/mockups/rare lemon/back.jpg"
+    ],
+    "slug": "rare-lemon",
+    "description": "",
+    "sizes": [
+      "sm",
+      "md",
+      "lg",
+      "xl"
+    ]
+  },
+  {
+    "name": "Sloppy Seconds Greyback",
+    "price": 16000,
+    "image": "/mockups/grey shirt/front.jpg",
+    "images": [
+      "/mockups/grey shirt/front.jpg",
+      "/mockups/grey shirt/back.jpg"
+    ],
+    "url": "/shop/arsenal-jersey",
+    "slug": "greyback",
+    "description": "",
+    "sizes": [
+      "sm",
+      "md",
+      "lg",
+      "xl"
+    ]
+  }
+]
